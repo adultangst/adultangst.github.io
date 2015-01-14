@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>/blog/schrondigerHeart/</loc>
+    <lastmod>2015-01-08T17:39:55-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/doisSois/</loc>
+    <lastmod>2015-01-06T17:39:55-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/peculiar/</loc>
+    <lastmod>2014-12-31T00:00:00-02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/fantasma/</loc>
+    <lastmod>2014-10-05T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/eternoRetorno/</loc>
+    <lastmod>2014-09-21T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/defenestrated/</loc>
+    <lastmod>2014-09-20T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/decay/</loc>
+    <lastmod>2014-09-04T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/goddes/</loc>
+    <lastmod>2014-08-17T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/contos/saber/</loc>
+    <lastmod>2014-08-11T18:39:55-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/contos/plerio/</loc>
+    <lastmod>2014-08-11T17:39:55-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/contos/dreary/</loc>
+    <lastmod>2014-08-11T16:39:55-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/mordida/</loc>
+    <lastmod>2014-08-10T16:39:55-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/madame/</loc>
+    <lastmod>2014-08-10T16:39:55-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>/contos/masmorra/</loc>
+    <lastmod>2014-08-09T00:00:00-03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/contos/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/theme-setup/</loc>
+    <lastmod>2015-01-13T22:56:01-02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+</urlset>

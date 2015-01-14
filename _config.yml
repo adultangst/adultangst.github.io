@@ -1,0 +1,53 @@
+# Site wide configuration
+
+title: Adult Angst
+locale: pt_BR
+description: Textos, pensamentos e outros devaneios.
+logo: site-logo.png
+search: true
+url:
+comments: true 
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Felipe Moysés
+  avatar: bio-photo.jpg
+  email: felipejsm41@gmail.com
+  disqus-shortname: felipejsm
+  twitter: #username
+  facebook: people/Felipe-Moysés
+  github: #username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: felipejsm41@gmail.com
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
